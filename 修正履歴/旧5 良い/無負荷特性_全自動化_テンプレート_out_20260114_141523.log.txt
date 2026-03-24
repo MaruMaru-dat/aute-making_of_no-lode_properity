@@ -1,0 +1,278 @@
+Run at: 2026-01-14T14:15:23
+A: E:\CEFC2026のDigest作成に向けたデータ\3. ABH法とsin B and Blong法の汎用性の検討\3. K model_custome1_無負荷特性 今
+Template: E:\CEFC2026のDigest作成に向けたデータ\3. ABH法とsin B and Blong法の汎用性の検討\3. K model_custome1_無負荷特性 今\無負荷特性_全自動化_テンプレート.xlsx
+Output: E:\CEFC2026のDigest作成に向けたデータ\3. ABH法とsin B and Blong法の汎用性の検討\3. K model_custome1_無負荷特性 今\無負荷特性_全自動化_テンプレート_out_20260114_141523.xlsx
+
+Found n folders: 16
+
+[n=1/16] 10 -> m folders: 3
+  [m=1] ABH: D8=0.1257828254808805 -> sheet#1('ABH') D2
+  [m=1] ABH: H8=5.759992052251326 -> sheet#1('ABH') B2
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') M2:M2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') N2:N2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') O2:O2050
+  [m=2] Original: D8=0.12554453849277297 -> sheet#2('Original') D2
+  [m=2] Original: H8=5.760034009290244 -> sheet#2('Original') B2
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') M2:M2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') N2:N2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') O2:O2050
+  [m=3] sin B and Blong 1: D8=0.12579563144102007 -> sheet#3('sin B and Blong 1') D2
+  [m=3] sin B and Blong 1: H8=5.759988884394778 -> sheet#3('sin B and Blong 1') B2
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') M2:M2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') N2:N2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') O2:O2050
+
+[n=2/16] 30 -> m folders: 3
+  [m=1] ABH: D8=0.36982906402860294 -> sheet#1('ABH') D3
+  [m=1] ABH: H8=17.281307381081085 -> sheet#1('ABH') B3
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') P2:P2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') Q2:Q2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') R2:R2050
+  [m=2] Original: D8=0.36850017087952847 -> sheet#2('Original') D3
+  [m=2] Original: H8=17.28154195688146 -> sheet#2('Original') B3
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') P2:P2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') Q2:Q2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') R2:R2050
+  [m=3] sin B and Blong 1: D8=0.3705639699976368 -> sheet#3('sin B and Blong 1') D3
+  [m=3] sin B and Blong 1: H8=17.281179163055548 -> sheet#3('sin B and Blong 1') B3
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') P2:P2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') Q2:Q2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') R2:R2050
+
+[n=3/16] 45 -> m folders: 3
+  [m=1] ABH: D8=0.5501777050956435 -> sheet#1('ABH') D4
+  [m=1] ABH: H8=25.92275129349046 -> sheet#1('ABH') B4
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') S2:S2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') T2:T2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') U2:U2050
+  [m=2] Original: D8=0.5482971227216801 -> sheet#2('Original') D4
+  [m=2] Original: H8=25.923079491216363 -> sheet#2('Original') B4
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') S2:S2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') T2:T2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') U2:U2050
+  [m=3] sin B and Blong 1: D8=0.551220294754963 -> sheet#3('sin B and Blong 1') D4
+  [m=3] sin B and Blong 1: H8=25.922572056470752 -> sheet#3('sin B and Blong 1') B4
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') S2:S2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') T2:T2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') U2:U2050
+
+[n=4/16] 50 -> m folders: 3
+  [m=1] ABH: D8=0.6101131150242367 -> sheet#1('ABH') D5
+  [m=1] ABH: H8=28.803262589510812 -> sheet#1('ABH') B5
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') V2:V2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') W2:W2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') X2:X2050
+  [m=2] Original: D8=0.6080931521227296 -> sheet#2('Original') D5
+  [m=2] Original: H8=28.803607548932728 -> sheet#2('Original') B5
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') V2:V2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') W2:W2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') X2:X2050
+  [m=3] sin B and Blong 1: D8=0.6112260734015533 -> sheet#3('sin B and Blong 1') D5
+  [m=3] sin B and Blong 1: H8=28.80307206031456 -> sheet#3('sin B and Blong 1') B5
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') V2:V2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') W2:W2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') X2:X2050
+
+[n=5/16] 55 -> m folders: 3
+  [m=1] ABH: D8=0.6700020889404661 -> sheet#1('ABH') D6
+  [m=1] ABH: H8=31.683777792432572 -> sheet#1('ABH') B6
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') Y2:Y2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') Z2:Z2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') AA2:AA2050
+  [m=2] Original: D8=0.6678670637128887 -> sheet#2('Original') D6
+  [m=2] Original: H8=31.684143046686298 -> sheet#2('Original') B6
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') Y2:Y2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') Z2:Z2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') AA2:AA2050
+  [m=3] sin B and Blong 1: D8=0.6711732541797559 -> sheet#3('sin B and Blong 1') D6
+  [m=3] sin B and Blong 1: H8=31.683578334798536 -> sheet#3('sin B and Blong 1') B6
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') Y2:Y2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') Z2:Z2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AA2:AA2050
+
+[n=6/16] 60 -> m folders: 3
+  [m=1] ABH: D8=0.7298704766295138 -> sheet#1('ABH') D7
+  [m=1] ABH: H8=34.56429191151919 -> sheet#1('ABH') B7
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') AB2:AB2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') AC2:AC2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') AD2:AD2050
+  [m=2] Original: D8=0.7276450650040862 -> sheet#2('Original') D7
+  [m=2] Original: H8=34.56465649634523 -> sheet#2('Original') B7
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') AB2:AB2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') AC2:AC2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') AD2:AD2050
+  [m=3] sin B and Blong 1: D8=0.7310915970808813 -> sheet#3('sin B and Blong 1') D7
+  [m=3] sin B and Blong 1: H8=34.564084651649694 -> sheet#3('sin B and Blong 1') B7
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AB2:AB2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AC2:AC2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AD2:AD2050
+
+[n=7/16] 65 -> m folders: 3
+  [m=1] ABH: D8=0.7897355260529844 -> sheet#1('ABH') D8
+  [m=1] ABH: H8=37.444798993590055 -> sheet#1('ABH') B8
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') AE2:AE2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') AF2:AF2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') AG2:AG2050
+  [m=2] Original: D8=0.7874480492875173 -> sheet#2('Original') D8
+  [m=2] Original: H8=37.44516530121844 -> sheet#2('Original') B8
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') AE2:AE2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') AF2:AF2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') AG2:AG2050
+  [m=3] sin B and Blong 1: D8=0.7909930661245197 -> sheet#3('sin B and Blong 1') D8
+  [m=3] sin B and Blong 1: H8=37.44458558866956 -> sheet#3('sin B and Blong 1') B8
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AE2:AE2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AF2:AF2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AG2:AG2050
+
+[n=8/16] 67.5 -> m folders: 3
+  [m=1] ABH: D8=0.8196785985955944 -> sheet#1('ABH') D9
+  [m=1] ABH: H8=38.88504539435872 -> sheet#1('ABH') B9
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') AH2:AH2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') AI2:AI2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') AJ2:AJ2050
+  [m=2] Original: D8=0.8173898807447715 -> sheet#2('Original') D9
+  [m=2] Original: H8=38.88538043791092 -> sheet#2('Original') B9
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') AH2:AH2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') AI2:AI2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') AJ2:AJ2050
+  [m=3] sin B and Blong 1: D8=0.8209507723977358 -> sheet#3('sin B and Blong 1') D9
+  [m=3] sin B and Blong 1: H8=38.88482812681101 -> sheet#3('sin B and Blong 1') B9
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AH2:AH2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AI2:AI2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AJ2:AJ2050
+
+[n=9/16] 100 -> m folders: 3
+  [m=1] ABH: D8=1.2114262207845827 -> sheet#1('ABH') D10
+  [m=1] ABH: H8=57.60746170088747 -> sheet#1('ABH') B10
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') AK2:AK2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') AL2:AL2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') AM2:AM2050
+  [m=2] Original: D8=1.212396578473969 -> sheet#2('Original') D10
+  [m=2] Original: H8=57.606440869283354 -> sheet#2('Original') B10
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') AK2:AK2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') AL2:AL2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') AM2:AM2050
+  [m=3] sin B and Blong 1: D8=1.213096800524152 -> sheet#3('sin B and Blong 1') D10
+  [m=3] sin B and Blong 1: H8=57.60691650233521 -> sheet#3('sin B and Blong 1') B10
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AK2:AK2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AL2:AL2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AM2:AM2050
+
+[n=10/16] 120 -> m folders: 3
+  [m=1] ABH: D8=1.4583961523562539 -> sheet#1('ABH') D11
+  [m=1] ABH: H8=69.1264219292131 -> sheet#1('ABH') B11
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') AN2:AN2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') AO2:AO2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') AP2:AP2050
+  [m=2] Original: D8=1.4726423175446302 -> sheet#2('Original') D11
+  [m=2] Original: H8=69.1142090818283 -> sheet#2('Original') B11
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') AN2:AN2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') AO2:AO2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') AP2:AP2050
+  [m=3] sin B and Blong 1: D8=1.4630001688470828 -> sheet#3('sin B and Blong 1') D11
+  [m=3] sin B and Blong 1: H8=69.12148199753646 -> sheet#3('sin B and Blong 1') B11
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AN2:AN2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AO2:AO2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AP2:AP2050
+
+[n=11/16] 140 -> m folders: 3
+  [m=1] ABH: D8=1.7222755886679284 -> sheet#1('ABH') D12
+  [m=1] ABH: H8=80.62511161624019 -> sheet#1('ABH') B12
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') AQ2:AQ2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') AR2:AR2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') AS2:AS2050
+  [m=2] Original: D8=1.8163739388711209 -> sheet#2('Original') D12
+  [m=2] Original: H8=80.61004444563889 -> sheet#2('Original') B12
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') AQ2:AQ2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') AR2:AR2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') AS2:AS2050
+  [m=3] sin B and Blong 1: D8=1.7533184249144267 -> sheet#3('sin B and Blong 1') D12
+  [m=3] sin B and Blong 1: H8=80.6207474919999 -> sheet#3('sin B and Blong 1') B12
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AQ2:AQ2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AR2:AR2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AS2:AS2050
+
+[n=12/16] 160 -> m folders: 3
+  [m=1] ABH: D8=2.083305849518218 -> sheet#1('ABH') D13
+  [m=1] ABH: H8=92.1358359651775 -> sheet#1('ABH') B13
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') AT2:AT2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') AU2:AU2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') AV2:AV2050
+  [m=2] Original: D8=2.5067793483300638 -> sheet#2('Original') D13
+  [m=2] Original: H8=92.05551864941687 -> sheet#2('Original') B13
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') AT2:AT2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') AU2:AU2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') AV2:AV2050
+  [m=3] sin B and Blong 1: D8=2.2050360513269642 -> sheet#3('sin B and Blong 1') D13
+  [m=3] sin B and Blong 1: H8=92.10762617154805 -> sheet#3('sin B and Blong 1') B13
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AT2:AT2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AU2:AU2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AV2:AV2050
+
+[n=13/16] 180 -> m folders: 3
+  [m=1] ABH: D8=2.7127345745059968 -> sheet#1('ABH') D14
+  [m=1] ABH: H8=103.58728594753863 -> sheet#1('ABH') B14
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') AW2:AW2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') AX2:AX2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') AY2:AY2050
+  [m=2] Original: D8=4.010190714614149 -> sheet#2('Original') D14
+  [m=2] Original: H8=103.25862946624515 -> sheet#2('Original') B14
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') AW2:AW2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') AX2:AX2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') AY2:AY2050
+  [m=3] sin B and Blong 1: D8=3.1089099801039937 -> sheet#3('sin B and Blong 1') D14
+  [m=3] sin B and Blong 1: H8=103.50240960728142 -> sheet#3('sin B and Blong 1') B14
+  [m=3] sin B and Blong 1: root H(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AW2:AW2050
+  [m=3] sin B and Blong 1: root Q(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AX2:AX2050
+  [m=3] sin B and Blong 1: root T(:) -> sheet#6('sin B and Blong 1_過渡(V3+V6)') AY2:AY2050
+
+[n=14/16] 200 -> m folders: 3
+  [m=1] ABH: D8=3.774358597465837 -> sheet#1('ABH') D15
+  [m=1] ABH: H8=114.92723330627669 -> sheet#1('ABH') B15
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') AZ2:AZ2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') BA2:BA2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') BB2:BB2050
+  [m=2] Original: D8=6.842422723429125 -> sheet#2('Original') D15
+  [m=2] Original: H8=113.75440939993369 -> sheet#2('Original') B15
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') AZ2:AZ2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') BA2:BA2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') BB2:BB2050
+  [m=3] sin B and Blong 3: D8=4.884007673587446 -> sheet#3('sin B and Blong 3') D15
+  [m=3] sin B and Blong 3: H8=114.59175263950546 -> sheet#3('sin B and Blong 3') B15
+  [m=3] sin B and Blong 3: root H(:) -> sheet#6('sin B and Blong 3_過渡(V3+V6)') AZ2:AZ2050
+  [m=3] sin B and Blong 3: root Q(:) -> sheet#6('sin B and Blong 3_過渡(V3+V6)') BA2:BA2050
+  [m=3] sin B and Blong 3: root T(:) -> sheet#6('sin B and Blong 3_過渡(V3+V6)') BB2:BB2050
+
+[n=15/16] 220 -> m folders: 3
+  [m=1] ABH: D8=0.7909930661245197 -> sheet#1('ABH') D16
+  [m=1] ABH: H8=37.44458558866956 -> sheet#1('ABH') B16
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') BC2:BC2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') BD2:BD2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') BE2:BE2050
+  [m=2] Original: D8=11.778068669084305 -> sheet#2('Original') D16
+  [m=2] Original: H8=122.32476648046888 -> sheet#2('Original') B16
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') BC2:BC2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') BD2:BD2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') BE2:BE2050
+  [m=3] sin B and Blong 2: D8=2.2077449175202704 -> sheet#3('sin B and Blong 2') D16
+  [m=3] sin B and Blong 2: H8=92.10719355945484 -> sheet#3('sin B and Blong 2') B16
+  [m=3] sin B and Blong 2: root H(:) -> sheet#6('sin B and Blong 2_過渡(V3+V6)') BC2:BC2050
+  [m=3] sin B and Blong 2: root Q(:) -> sheet#6('sin B and Blong 2_過渡(V3+V6)') BD2:BD2050
+  [m=3] sin B and Blong 2: root T(:) -> sheet#6('sin B and Blong 2_過渡(V3+V6)') BE2:BE2050
+
+[n=16/16] 230 -> m folders: 3
+  [m=1] ABH: D8=7.138504226241257 -> sheet#1('ABH') D17
+  [m=1] ABH: H8=131.16799229050366 -> sheet#1('ABH') B17
+  [m=1] ABH: root H(:) -> sheet#4('ABH_過渡(V3+V6)') BF2:BF2050
+  [m=1] ABH: root Q(:) -> sheet#4('ABH_過渡(V3+V6)') BG2:BG2050
+  [m=1] ABH: root T(:) -> sheet#4('ABH_過渡(V3+V6)') BH2:BH2050
+  [m=2] Original: D8=14.338414916436117 -> sheet#2('Original') D17
+  [m=2] Original: H8=126.06208644147377 -> sheet#2('Original') B17
+  [m=2] Original: root H(:) -> sheet#5('Original_過渡(V3+V6)') BF2:BF2050
+  [m=2] Original: root Q(:) -> sheet#5('Original_過渡(V3+V6)') BG2:BG2050
+  [m=2] Original: root T(:) -> sheet#5('Original_過渡(V3+V6)') BH2:BH2050
+  [m=3] sin B and Blong: D8=9.627048419786021 -> sheet#3('sin B and Blong') D17
+  [m=3] sin B and Blong: H8=129.8232507092992 -> sheet#3('sin B and Blong') B17
+  [m=3] sin B and Blong: root H(:) -> sheet#6('sin B and Blong_過渡(V3+V6)') BF2:BF2050
+  [m=3] sin B and Blong: root Q(:) -> sheet#6('sin B and Blong_過渡(V3+V6)') BG2:BG2050
+  [m=3] sin B and Blong: root T(:) -> sheet#6('sin B and Blong_過渡(V3+V6)') BH2:BH2050
